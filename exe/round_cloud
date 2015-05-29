@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'round_cloud'
+
+RoundCloud::CLI.start(ARGV)
