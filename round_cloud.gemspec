@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Provides executable for building and packaging gem}
   spec.description   = %q{Allows to build gem on circle ci and publish to packagecloud.io}
-  spec.homepage      = 'http://github.com'
+  spec.homepage      = 'https://github.com/saks/round_cloud'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
